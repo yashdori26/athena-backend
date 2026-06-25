@@ -1,0 +1,52 @@
+{
+  "Mathematics": {
+    "category": "Math",
+    "icon": "📐",
+    "topics": ["Algebra", "Geometry", "Calculus", "Trigonometry", "Statistics", "Probability", "Linear Algebra", "Discrete Math"]
+  },
+  "Physics": {
+    "category": "Science",
+    "icon": "⚛️",
+    "topics": ["Newtonian Mechanics", "Thermodynamics", "Electromagnetism", "Quantum Mechanics", "Relativity", "Optics", "Fluid Dynamics"]
+  },
+  "Chemistry": {
+    "category": "Science",
+    "icon": "🧪",
+    "topics": ["Periodic Table", "Chemical Bonding", "Organic Chemistry", "Stoichiometry", "Acids and Bases", "Thermodynamics", "Electrochemistry"]
+  },
+  "World History": {
+    "category": "History",
+    "icon": "🌍",
+    "topics": ["Ancient Egypt", "Roman Empire", "World War I", "World War II", "Cold War", "Industrial Revolution", "Renaissance", "French Revolution"]
+  },
+  "Computer Science": {
+    "category": "Other",
+    "icon": "💻",
+    "topics": ["Data Structures", "Algorithms", "Object-Oriented Programming", "Databases", "Computer Networks", "Operating Systems", "Artificial Intelligence", "Cybersecurity"]
+  },
+  "Psychology": {
+    "category": "Other",
+    "icon": "🧠",
+    "topics": ["Cognitive Psychology", "Behavioral Psychology", "Developmental Psychology", "Abnormal Psychology", "Social Psychology", "Neuroscience"]
+  },
+  "Economics": {
+    "category": "Other",
+    "icon": "📈",
+    "topics": ["Microeconomics", "Macroeconomics", "Supply and Demand", "International Trade", "Fiscal Policy", "Monetary Policy", "Game Theory"]
+  },
+  "Biology": {
+    "category": "Science",
+    "icon": "🧬",
+    "topics": ["Cell Biology", "Genetics", "Evolution", "Human Anatomy", "Ecology", "Plant Biology", "Microbiology", "Immunology"]
+  },
+  "Geography": {
+    "category": "Other",
+    "icon": "🗺️",
+    "topics": ["Physical Geography", "Human Geography", "World Capitals", "Climate Change", "Geopolitics", "Demographics"]
+  },
+  "Literature": {
+    "category": "Language",
+    "icon": "📖",
+    "topics": ["Shakespeare", "Greek Mythology", "American Literature", "British Literature", "Poetry Analysis", "Literary Devices"]
+  }
+}

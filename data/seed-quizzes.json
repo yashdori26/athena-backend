@@ -1,0 +1,56 @@
+[
+  {
+    "subjectName": "Biology",
+    "subjectCategory": "Science",
+    "subjectIcon": "🧬",
+    "topic": "Photosynthesis",
+    "difficulty": "medium",
+    "questions": [
+      {
+        "question": "What is the primary pigment involved in photosynthesis?",
+        "options": ["Chlorophyll", "Carotene", "Xanthophyll", "Anthocyanin"],
+        "correctAnswer": 0,
+        "explanation": "Chlorophyll absorbs light energy primarily in the blue and red wavelengths."
+      },
+      {
+        "question": "In which organelle does photosynthesis occur?",
+        "options": ["Mitochondria", "Nucleus", "Chloroplast", "Ribosome"],
+        "correctAnswer": 2,
+        "explanation": "Chloroplasts contain chlorophyll and are the site of photosynthesis in plant cells."
+      },
+      {
+        "question": "What are the primary products of photosynthesis?",
+        "options": ["Carbon dioxide and water", "Glucose and oxygen", "ATP and water", "Nitrogen and glucose"],
+        "correctAnswer": 1,
+        "explanation": "Photosynthesis converts carbon dioxide and water into glucose (sugar) and oxygen."
+      }
+    ]
+  },
+  {
+    "subjectName": "History",
+    "subjectCategory": "History",
+    "subjectIcon": "🏛️",
+    "topic": "World War II",
+    "difficulty": "easy",
+    "questions": [
+      {
+        "question": "In what year did World War II begin?",
+        "options": ["1914", "1939", "1941", "1945"],
+        "correctAnswer": 1,
+        "explanation": "World War II began on September 1, 1939, when Germany invaded Poland."
+      },
+      {
+        "question": "Which of these countries was part of the Axis powers?",
+        "options": ["United Kingdom", "Soviet Union", "Japan", "France"],
+        "correctAnswer": 2,
+        "explanation": "The main Axis powers were Germany, Italy, and Japan."
+      },
+      {
+        "question": "When did World War II end?",
+        "options": ["1943", "1945", "1948", "1950"],
+        "correctAnswer": 1,
+        "explanation": "World War II ended in 1945 with the surrender of Germany in May and Japan in September."
+      }
+    ]
+  }
+]

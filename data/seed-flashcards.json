@@ -1,0 +1,48 @@
+[
+  {
+    "subjectName": "Biology",
+    "subjectCategory": "Science",
+    "subjectIcon": "🧬",
+    "topic": "Photosynthesis",
+    "cards": [
+      {
+        "front": "What is Photosynthesis?",
+        "back": "The process by which green plants and some other organisms use sunlight to synthesize foods from carbon dioxide and water.",
+        "difficulty": 0
+      },
+      {
+        "front": "What is Chlorophyll?",
+        "back": "A green pigment responsible for the absorption of light to provide energy for photosynthesis.",
+        "difficulty": 1
+      },
+      {
+        "front": "What are the Reactants of Photosynthesis?",
+        "back": "Carbon dioxide (CO2), Water (H2O), and Light energy.",
+        "difficulty": 0
+      }
+    ]
+  },
+  {
+    "subjectName": "History",
+    "subjectCategory": "History",
+    "subjectIcon": "🏛️",
+    "topic": "World War II",
+    "cards": [
+      {
+        "front": "When did World War II start and end?",
+        "back": "Started in 1939, ended in 1945.",
+        "difficulty": 0
+      },
+      {
+        "front": "Who were the main Axis powers?",
+        "back": "Germany, Italy, and Japan.",
+        "difficulty": 0
+      },
+      {
+        "front": "Who were the main Allied powers?",
+        "back": "Great Britain, the United States, and the Soviet Union.",
+        "difficulty": 1
+      }
+    ]
+  }
+]
