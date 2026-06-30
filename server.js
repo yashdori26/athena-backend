@@ -3,7 +3,7 @@ const app = require('./src/app');
 const connectDB = require('./src/config/db');
 const { initializeFirebase } = require('./src/config/firebase');
 
-const PORT = process.env.PORT || 5000;
+const PORT = parseInt(process.env.PORT, 10) || 5000;
 
 // Connect to Database
 connectDB();
@@ -15,7 +15,7 @@ initializeFirebase();
 const { startNotificationCron } = require('./src/cron/notification.cron');
 startNotificationCron();
 
-const server = app.listen(PORT, () => {
+const server = app.listen(PORT, '0.0.0.0', () => {
   console.log(`Server running in ${process.env.NODE_ENV} mode on port ${PORT}`);
 });
 
